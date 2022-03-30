@@ -2,4 +2,4 @@
 
 Здесь можно посмотреть рейтинг терпилоидности манов из DBD. Проект был запилен по рофлу за 2 часа без капли объективности.
 
-Ссылка на GitHub Pages: https://vladick2008.github.io/dbd-terpila-metr/
+Ссылка на Vercel: https://dbd-terpila-metr.vercel.app/
