@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DBD Terpila-Metr",
+  "name": "Рейтинг терпил в Dead by Daylight",
   "icons": [
     {
       "src": "favicon.ico",

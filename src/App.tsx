@@ -52,7 +52,11 @@ const App: React.FC = () => {
   }, [killer]);
 
   return (
-    <>
+    <div className="app_main-wrapper">
+      <div className="app_faq">
+        Сайт сделан по рофлу за 2 часа, не воспринимайте информацию слишком серьёзно |{' '}
+        <a href="https://github.com/VlaDick2008">@VlaDick2008</a>
+      </div>
       <div className="app_wrapper">
         <div className="app_content">
           <Autocomplete
@@ -84,7 +88,7 @@ const App: React.FC = () => {
           <img src={terpilaPortrait} alt="aboba" />
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
