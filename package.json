@@ -2,7 +2,7 @@
   "name": "terpila-metr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladick2008.github.io/dbd-terpila-metr/",
+  "homepage": "https://dbd-terpila-metr.vercel.app/",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
