@@ -14,29 +14,12 @@ body {
   color: #fff;
 }
 
-.app_main-wrapper {
-  display: flex;
-  flex-direction: column-reverse;
-  justify-content: center;
-  height: 99vh;
-}
-
-.app_faq {
-  font-weight: 300;
-  font-size: 14px;
-  margin-left: 10px;
-
-  a {
-    color: #fff;
-  }
-}
-
 .app_wrapper {
   display: flex;
   flex: 1;
   justify-content: space-evenly;
   align-items: center;
-
+  height: 100vh;
   margin: 0 50px;
 }
 
@@ -65,7 +48,6 @@ body {
 .app_search {
   background-color: #fffffffa;
   border-radius: 10px;
-  margin-bottom: 10px;
 }
 
 .app_raiting-block {
